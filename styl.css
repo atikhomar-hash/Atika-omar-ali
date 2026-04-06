@@ -1,0 +1,26 @@
+header{
+    background-color: pink;
+    color: #fff;
+    font-size: large
+}
+ul{
+background-color: ;
+    color: #181717;
+    font-size: smaller
+}
+ol{
+ background-color: pink;
+    color: #fff;
+    font-size: smaller   
+}
+dl{
+  background-color: pink;
+    color: #131212;
+    font-size: large;     
+}
+footer{
+    background-color: pink;
+    color: #070707;
+    font-size:large
+}
+
